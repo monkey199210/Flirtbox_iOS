@@ -1,0 +1,161 @@
+PODS:
+  - AFDateHelper (3.3.1)
+  - Alamofire (3.4.0)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - Argo (2.3.0)
+  - AsyncSwift (1.7.2)
+  - Bolts (1.7.0):
+    - Bolts/AppLinks (= 1.7.0)
+    - Bolts/Tasks (= 1.7.0)
+  - Bolts/AppLinks (1.7.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.7.0)
+  - Bond (4.3.1)
+  - BrightFutures (3.3.0):
+    - Result (~> 1.0)
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.7)
+  - FBSDKCoreKit (4.11.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.11.0):
+    - FBSDKCoreKit
+  - Firebase/AdMob (3.2.1):
+    - Firebase/Analytics (= 3.2.1)
+    - Google-Mobile-Ads-SDK (= 7.8.1)
+  - Firebase/Analytics (3.2.1):
+    - FirebaseAnalytics (= 3.2.0)
+  - Firebase/Messaging (3.2.1):
+    - Firebase/Analytics (= 3.2.1)
+    - FirebaseMessaging (= 1.1.0)
+  - FirebaseAnalytics (3.2.0):
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleInterchangeUtilities (~> 1.2)
+    - GoogleSymbolUtilities (~> 1.1)
+    - GoogleUtilities (~> 1.3)
+  - FirebaseInstanceID (1.0.6)
+  - FirebaseMessaging (1.1.0):
+    - FirebaseAnalytics (~> 3.2)
+    - GoogleInterchangeUtilities (~> 1.2)
+    - GoogleIPhoneUtilities (~> 1.2)
+    - GoogleSymbolUtilities (~> 1.1)
+  - Genome (1.0.8)
+  - Google-Mobile-Ads-SDK (7.8.1)
+  - Google/Analytics (3.0.3):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (3.0.3):
+    - FirebaseAnalytics (~> 3.2)
+  - GoogleAnalytics (3.14.0)
+  - GoogleInterchangeUtilities (1.2.1):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleIPhoneUtilities (1.2.1):
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.1.1)
+  - GoogleUtilities (1.3.1):
+    - GoogleSymbolUtilities (~> 1.0)
+  - HanekeSwift (0.10.1)
+  - Heimdallr (3.2.1):
+    - Heimdallr/Core (= 3.2.1)
+  - Heimdallr/Core (3.2.1):
+    - Argo (~> 2.2)
+    - Result (~> 1.0)
+  - KeychainAccess (2.3.5)
+  - LGAlertView (1.0.3)
+  - MRProgress (0.8.3):
+    - MRProgress/ActivityIndicator (= 0.8.3)
+    - MRProgress/Blur (= 0.8.3)
+    - MRProgress/Circular (= 0.8.3)
+    - MRProgress/Icons (= 0.8.3)
+    - MRProgress/NavigationBarProgress (= 0.8.3)
+    - MRProgress/Overlay (= 0.8.3)
+  - MRProgress/ActivityIndicator (0.8.3):
+    - MRProgress/Stopable
+  - MRProgress/Blur (0.8.3):
+    - MRProgress/Helper
+  - MRProgress/Circular (0.8.3):
+    - MRProgress/Helper
+    - MRProgress/ProgressBaseClass
+    - MRProgress/Stopable
+  - MRProgress/Helper (0.8.3)
+  - MRProgress/Icons (0.8.3)
+  - MRProgress/NavigationBarProgress (0.8.3):
+    - MRProgress/ProgressBaseClass
+  - MRProgress/Overlay (0.8.3):
+    - MRProgress/ActivityIndicator
+    - MRProgress/Blur
+    - MRProgress/Circular
+    - MRProgress/Helper
+    - MRProgress/Icons
+  - MRProgress/ProgressBaseClass (0.8.3)
+  - MRProgress/Stopable (0.8.3):
+    - MRProgress/Helper
+  - Nuke (3.1.0)
+  - Result (1.0.2)
+  - Signals (2.3.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - AFDateHelper
+  - Alamofire (~> 3.4)
+  - AlamofireImage (~> 2.0)
+  - AsyncSwift
+  - Bond (~> 4.0)
+  - BrightFutures
+  - Crashlytics
+  - Fabric
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - Firebase/AdMob
+  - Firebase/Messaging
+  - Genome (~> 1.0.0)
+  - Google/Analytics
+  - HanekeSwift
+  - Heimdallr (~> 3.2)
+  - KeychainAccess
+  - LGAlertView (~> 1.0.0)
+  - MRProgress
+  - Nuke
+  - Signals (~> 2.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AFDateHelper: 3cf2296dc56cdc72af8fb8e73fb04ca0bd1999ae
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  Argo: 3dbecf4204b1a3cdd1df88ebd5e23d01b652d34b
+  AsyncSwift: 46a78bceb11f0e5bb52747f740d9692ec78d2d7c
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  Bond: 55903fc67f09e8e49791a657163cabba1d6fb29d
+  BrightFutures: f4b491b3107487a0469973a74f81f334eb0ed60a
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  FBSDKCoreKit: 686ac982723a14ec9ddb85e2f81235d7706c891b
+  FBSDKLoginKit: bade9fc78277764149ccc5bfaadbf13c83175c6a
+  Firebase: 6c80ac28d59d06bfd9152a7b6ea17625ca93183d
+  FirebaseAnalytics: 6f75b04e6bfb8e0b6e9ef298e04c24eea3b13863
+  FirebaseInstanceID: d014d574053a2fe84478f12f7bae96979e7051bb
+  FirebaseMessaging: 8a92e9ea70673605aa7d1803d2d5aa3eb946009c
+  Genome: 20d8aa7b63728553aab26fef53ea8570a71ce2f1
+  Google: 813c467362eabc11385f5a5cc9ad0cb651a58f4e
+  Google-Mobile-Ads-SDK: 3c2a6656117989469bfe7645640aa1de024a4c6c
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  GoogleInterchangeUtilities: def8415a862effc67d549d5b5b0b9c7a2f97d4de
+  GoogleIPhoneUtilities: 63f25e93a3ddcb66884d182aab3a660d98f1479b
+  GoogleSymbolUtilities: 33117db1b5f290c6fbf259585e4885b4c84b98d7
+  GoogleUtilities: 56c5ac05b7aa5dc417a1bb85221a9516e04d7032
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  Heimdallr: f4e8dfded98a884c015d47db19e48d45a962963c
+  KeychainAccess: e283c1981a6c5655e1984cd411c6faf16fa165ae
+  LGAlertView: 0b07e39c4f1cfe28dd7f4054fad352a45e92b2a9
+  MRProgress: 16de7cc9f347e8846797a770db102a323fe7ef09
+  Nuke: e93fa6ad10472c2d46ddca3a9dc92fd65027e40e
+  Result: dd3dd71af3fa2e262f1a999e14fba2c25ec14f16
+  Signals: d47128787e1675858f956556397e482fd667bd96
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 9925c01fa52271abcc2e2974da64e1f75d1768c4
+
+COCOAPODS: 1.0.1

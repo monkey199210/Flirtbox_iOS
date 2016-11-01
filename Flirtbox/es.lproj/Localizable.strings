@@ -1,0 +1,1032 @@
+/* 
+  Localizable.strings
+  Flirtbox
+
+  Created by Azamat Valitov on 02.05.16.
+  Edited by Sergey Petrachkov on 09.06.16
+  Copyright © 2016 flirtbox. All rights reserved.
+*/
+
+/*  */
+"_ACTORS" = "Actores";
+
+/*  */
+"_ANYONE" = "Cualquiera";
+
+/*  */
+"_AGE" = "Edad";
+
+/*  */
+"_BANDS" = "Bandas y músicos";
+
+/*  */
+"_BODYSHAPE" = "Figura corporal";
+
+/*  */
+"_CANCEL" = "Cancelar";
+
+/*  */
+"_CHANGE_PASSWORD" = "Cambie su contraseña";
+
+/*  */
+"_CHAT" = "Chat";
+
+/*  */
+"_CLEAR" = "Borrar";
+
+/*  */
+"_CONFIRM_PASS" = "Confirme su contraseña";
+
+/*  */
+"_COUNTRY" = "País";
+
+/*  */
+"_DATE_OF_BIRTH" = "Fecha de nacimiento (día/mes/año)";
+
+/*  */
+"_DELETE" = "Eliminar";
+
+/*  */
+"_DESCRIPTION" = "Descripción";
+
+/*  */
+"_DOB_MISSING" = "¡Falta su fecha de nacimiento!";
+
+/*  */
+"_EDUCATION" = "Educación";
+
+/*  */
+"_EMAIL_ADDRESS_NOT_FOUND" = "¡Dirección de correo electrónico no encontrada!";
+
+/*  */
+"_EMAIL_CONFIRMATION" = "Confirmación del correo electrónico";
+
+/*  */
+"_ERROR_EMAIL_TAKEN" = "Esta dirección de correo electrónico ya ha sido registrada.";
+
+/*  */
+"_EYECOLOUR" = "Color de ojos";
+
+/*  */
+"_FBMAILSENT" = "¡Su mensaje ha sido enviado!";
+
+/*  */
+"_FBTHANKSFORCONTACT" = "¡Gracias por sus observaciones!";
+
+/*  */
+"_FEMALE" = "Mujer";
+
+/*  */
+"_GENDER" = "Género";
+
+/*  */
+"_HAIRCOLOUR" = "Color de pelo";
+
+/*  */
+"_HAIRSTYLE" = "Peinado";
+
+/*  */
+"_HEIGHT" = "Altura";
+
+/*  */
+"_LANGUAGES" = "Idiomas";
+
+/*  */
+"_LOGIN" = "Conectarse";
+
+/*  */
+"_LOGOUT" = "Desconectar";
+
+/*  */
+"_LOOKING_FOR" = "Buscando";
+
+/*  */
+"_LOST_YOUR_PASSWORD" = "¿Ha perdido su contraseña?";
+
+/*  */
+"_MALE" = "Hombre";
+
+/*  */
+"_MEN" = "Hombres";
+
+/*  */
+"_MOVIES" = "Películas";
+
+/*  */
+"_NO_RESULTS_FOUND" = "¡Perdón, no hay resultados!";
+
+/*  */
+"_PASSWORDS_DONT_MATCH" = "Sus contraseñas no corresponden";
+
+/*  */
+"_PASSWORD_HAS_BEEN_CHANGED" = "Su contraseña ha sido modificada. Para continuar, entre nuevamente con su nueva contraseña.";
+
+/*  */
+"_PHONE_NUMBER" = "Número de teléfono móvil";
+
+/*  */
+"_PICTURE_UPLOAD_SUCCESSFUL" = "¡La foto ha sido cargada exitosamente!";
+
+/*  */
+"_PROFESSION" = "Profesión";
+
+/*  */
+"_PROFILE_NOTVISIBLE" = "Perdón, este perfil no puede ser visto por usted. Cada miembro puede elegir ser invisible a convidados o miembros que no han cargado una foto.";
+
+/*  */
+"_REALLY_DELETE_PICTURE" = "¿Quiere realmente borrar esta foto?";
+
+/*  */
+"_REG_EMAIL_INVALID" = "Su dirección de correo electrónico parece ser incorrecta";
+
+/*  */
+"_REG_STOP_NAME_RESERVED" = "Perdón, este nombre de usuario ya está en uso.";
+
+/*  */
+"_REG_STOP_USERNAME_TOO_SHORT" = "Son necesarios 5 caracteres";
+
+/*  */
+"_REMOVE" = "Remover";
+
+/*  */
+"_REPORT_OPTION_1" = "Foto ofensiva";
+
+/*  */
+"_REPORT_OPTION_2" = "Fotos robadas o ilegales";
+
+/*  */
+"_REPORT_OPTION_3" = "Anuncios o intensiones comerciales";
+
+/*  */
+"_REPORT_OPTION_4" = "Parece un perfil de estafador";
+
+/*  */
+"_REPORT_OPTION_5" = "Comportamiento desagradable o grosero";
+
+/*  */
+"_REPORT_OPTION_6" = "Perfil inconsistente";
+
+/*  */
+"_REPORT_OPTION_7" = "Otro";
+
+/*  */
+"_REQUIRED" = "Necesario";
+
+/*  */
+"_SEND" = "Enviar";
+
+/*  */
+"_SEND_A_MESSAGE" = "Envíe un mensaje";
+
+/*  */
+"_SEXUALITY" = "Sexualidad";
+
+/*  */
+"_SUBJECT" = "Asunto";
+
+/*  */
+"_SUBMIT" = "Enviar";
+
+/*  */
+"_TERMS_AND_CONDITIONS" = "Registrándose como un nuevo miembro, usted acepta nuestros Términos y Condiciones";
+
+/*  */
+"_TOWN" = "Ciudad";
+
+/*  */
+"_TV" = "Televisión";
+
+/*  */
+"_USERNAME" = "Nombre de Usuario";
+
+/*  */
+"_WHO_MAY_CONTACT_YOU" = "¿Quién puede contactarte?";
+
+/*  */
+"_WHO_MAY_SEE_YOUR_PICTURE" = "¿Quién puede ver tu perfil?";
+
+/*  */
+"_WOMEN" = "Mujeres";
+
+/*  */
+"_YES" = "Si";
+
+/*  */
+"_EDIT" = "Editar";
+
+/*  */
+"_QUESTIONS" = "Preguntas";
+
+/*  */
+"_OUTBOX" = "Bandeja de salida";
+
+/*  */
+"_INBOX" = "Bandeja de entrada";
+
+/*  */
+"_FAVOURITES" = "Favoritos";
+
+/*  */
+"_SETTINGS" = "Configuraciones";
+
+/*  */
+"_BLOCK" = "Bloquear";
+
+/*  */
+"_VISITORS" = "Visitantes";
+
+/*  */
+"_MEMBERS" = "Miembros";
+
+/*  */
+"_PASSWORD" = "Contraseña";
+
+/*  */
+"_PROFILE" = "Perfil";
+
+/*  */
+"_ABOUT_ME" = "Sobre mí";
+
+/*  */
+"_ABOUT_US" = "Sobre nosotros";
+
+/*  */
+"_SIGN_UP" = "Registro";
+
+/*  */
+"_SEARCH" = "Búsqueda";
+
+/*  */
+"_NOTIFY_CONFIRM_EMAIL" = "Por favor confirme su dirección de correo electrónico.";
+
+/*  */
+"_CONTINUE" = "Continuar";
+
+/*  */
+"_CODE_DID_NOT_ARRIVE_SEND_INSTEAD" = "¿No ha recibido un correo electrónico nuestro y también no lo encuentra en su carpeta de correo no deseado? Nos puede enviar un correo electrónico con el asunto siguiente a confirm@flirtbox.biz:";
+
+/*  */
+"_NOTIFICATIONS" = "Notificaciones";
+
+/*  */
+"_NEW_MESSAGE" = "Nuevos mensajes";
+
+/*  */
+"_TECHNICAL_ISSUES" = "Cuestiones técnicas";
+
+/*  */
+"_PICTURE_APPROVED" = "Foto de flirtbox aprobada";
+
+/*  */
+"_PICTURE_DISAPPROVED" = "Foto de flirtbox declinada";
+
+/*  */
+"_NEWSLETTER" = "Newsletter";
+
+/*  */
+"_LOGIN_ERROR_MESSAGE" = "Nombre de usuario y / o contraseña incorrecta. Por favor, inténtelo de nuevo o cambie su contraseña.";
+
+/*  */
+"_SHOW_ME" = "Muéstreme";
+
+/*  */
+"_MESSAGE" = "Mensaje";
+
+/*  */
+"_ARCHIVE" = "Archivo";
+
+/*  */
+"_REPORT" = "Informe";
+
+/*  */
+"_ADVANCED_SEARCH" = "Búsqueda avanzada";
+
+/*  */
+"_HOME_COUNTRY" = "Originalmente desde";
+
+/*  */
+"_RADIO" = "Radio";
+
+/*  */
+"_TVSTATION" = "Canales de televisión";
+
+/*  */
+"_GAMES" = "Juegos";
+
+/*  */
+"_SONGS" = "Canciones";
+
+/*  */
+"_PETS" = "Mascotas";
+
+/*  */
+"_AGE_RANGE" = "Grupo de edad";
+
+/*  */
+"_DISTANCE" = "Distancia";
+
+/*  */
+"_MUSIC" = "Música";
+
+/*  */
+"_SPORTS" = "Deportes";
+
+/*  */
+"_AUTHORS" = "Autores";
+
+/*  */
+"_TERMS_AND_CONDITIONS_TITLE" = "Términos y Condiciones";
+
+/*  */
+"_UPLOAD_PICTURE" = "Cargando foto";
+
+/*  */
+"_YESTERDAY" = "Ayer";
+
+/*  */
+"_YEAR" = "Año";
+
+/*  */
+"_WOMEN_WITH_PICTURES" = "Mujeres con fotos";
+
+/*  */
+"_ACTIVE" = "Activo";
+
+/*  */
+"_ADD" = "Adicionar";
+
+/*  */
+"_ANYONE_WITH_PICTURES" = "Cualquiera con fotos";
+
+/*  */
+"_APRIL" = "Abril";
+
+/*  */
+"_AUGUST" = "Agosto";
+
+/*  */
+"_BASIC_SEARCH" = "Búsqueda básica";
+
+/*  */
+"_BLOCKED" = "Bloqueado";
+
+/*  */
+"_CANT_CONTACT_THIS_MEMBER" = "Perdón, ¡no puede contactar este miembro!";
+
+/*  */
+"_CD_ADD_PHOTO" = "Adicionar foto";
+
+/*  */
+"_CD_ADD_TAG" = "Adicionar etiqueta";
+
+/*  */
+"_CD_SEND_MESSAGE" = "Enviar mensaje";
+
+/*  */
+"_CD_USER_PICTURE" = "Foto de utilizador";
+
+/*  */
+"_CLOSE" = "Cerrar";
+
+/*  */
+"_CONFIRM" = "Confirmar";
+
+/*  */
+"_DATE_INVALID" = "Fecha inválida";
+
+/*  */
+"_DAY" = "Día";
+
+/*  */
+"_DAY_AGO" = "Hace un día";
+
+/*  */
+"_DAYS_AGO" = "Hacen %1$d días";
+
+/*  */
+"_DECEMBER" = "Diciembre";
+
+/*  */
+"_DELETE_PROFILE" = "Eliminar perfil";
+
+/*  */
+"_EDIT_DESCRIPTION" = "Editar descripción";
+
+/*  */
+"_EMAIL" = "Correo electrónico";
+
+/*  */
+"_EMAIL_SEND" = "Enviar correo electrónico";
+
+/*  */
+"_ERROR_DOB_INVALID" = "Su fecha de nacimiento parece ser inválida";
+
+/*  */
+"_ERROR_GENERAL" = "Un error inesperado ha ocurrido";
+
+/*  */
+"_ERROR_PHOTO_TOO_BIG" = "Por favor elija una foto con menos que 10MB";
+
+/*  */
+"_FEBRUARY" = "Febrero";
+
+/*  */
+"_FEEDBACK" = "Comentarios";
+
+/*  */
+"_FILTER" = "Filtro";
+
+/*  */
+"_HOUR_AGO" = "Hace 1 hora";
+
+/*  */
+"_HOURS_AGO" = "Hace %1$d horas";
+
+/*  */
+"_JANUARY" = "Enero";
+
+/*  */
+"_JULY" = "Julio";
+
+/*  */
+"_JUNE" = "Junio";
+
+/*  */
+"_LIST_EMPTY" = "Esta lista está vacía";
+
+/*  */
+"_LOGIN_FACEBOOK" = "Conectar con Facebook";
+
+/*  */
+"_MARCH" = "Marzo";
+
+/*  */
+"_MAY" = "Mayo";
+
+/*  */
+"_MEMBERS_WITH_PICTURES" = "Miembros con fotos";
+
+/*  */
+"_MEN_WITH_PICTURES" = "Hombres con fotos";
+
+/*  */
+"_MESSAGES" = "Mensajes";
+
+/*  */
+"_MONTH" = "Mes";
+
+/*  */
+"_MONTHS" = "Meses";
+
+/*  */
+"_NEARBY" = "Cerca";
+
+/*  */
+"_NEW" = "Nuevo";
+
+/*  */
+"_NEW_PASSWORD" = "Nueva contraseña";
+
+/*  */
+"_NO" = "No";
+
+/*  */
+"_NONE" = "Ningún";
+
+/*  */
+"_NOTIFICATION_NEW_MESSAGE_TEXT" = "Tiene un nuevo mensaje de %@";
+
+/*  */
+"_NOTIFICATION_NEW_MESSAGE_TITLE" = "Nuevo mensaje";
+
+/*  */
+"_NOTIFICATION_PICTURE_APPROVED_TEXT" = "Una foto que cargó ha sido aprobada.";
+
+/*  */
+"_NOTIFICATION_PICTURE_DECLINED_TEXT" = "Una foto que cargó ha sido declinada.";
+
+/*  */
+"_NOVEMBER" = "Noviembre";
+
+/*  */
+"_OCTOBER" = "Octubre";
+
+/*  */
+"_OPEN" = "Abrir";
+
+/*  */
+"_PASSWORD_CHANGED_TITLE" = "Contraseña modificada";
+
+/*  */
+"_PHONE_CONFIRMATION" = "Confirmación de número de teléfono";
+
+/*  */
+"_PICTURE_DELETED_SUCCESS" = "Foto eliminada con éxito";
+
+/*  */
+"_PICTURE_DELETE_DIALOG_TITLE" = "Eliminar foto";
+
+/*  */
+"_PICTURE_UPLOADED" = "Foto cargada";
+
+/*  */
+"_PICTURE_UPLOADING" = "Cargando foto";
+
+/*  */
+"_PICTURE_UPLOAD_FAIL" = "Foto no cargada";
+
+/*  */
+"_PICTURE_UPLOAD_FAIL_SUMMARY" = "Su foto no ha sido cargada. Por favor, intente otra vez.";
+
+/*  */
+"_PRIVACY" = "Privacidad";
+
+/*  */
+"_PROFILE_ADD_FAVORITES" = "Adicionar favoritos";
+
+/*  */
+"_PROFILE_NOT_VISIBLE" = "Perfil no visible";
+
+/*  */
+"_PROFILE_QUESTIONS_LEAVE_EMPTY" = "Dejar vacío";
+
+/*  */
+"_PROFILE_UPDATED" = "Su perfil ha sido actualizado";
+
+/*  */
+"_RADAR" = "Radar";
+
+/*  */
+"_RETRY" = "Reintentar";
+
+/*  */
+"_SECOND_AGO" = "Hace 1 segundo";
+
+/*  */
+"_SECONDS_AGO" = "Hace %1$d segundos";
+
+/*  */
+"_SEPTEMBER" = "Septiembre";
+
+/*  */
+"_SETTINGS_NOTIFICATIONS" = "Notificaciones";
+
+/*  */
+"_SETTINGS_PROFILE" = "Mi perfil";
+
+/*  */
+"_SHARE" = "Compartir";
+
+/*  */
+"_SIGN_UP_FACEBOOK" = "Registrar con Facebook";
+
+/*  */
+"_SMS_SEND" = "Enviar SMS";
+
+/*  */
+"_VISITED" = "Visitado";
+
+/*  */
+"_WAIT_PLEASE" = "Espere por favor…";
+
+/*  */
+"_ERROR_DATA_EQUAL" = "¡Los dados no han cambiado!";
+
+/*  */
+"_MINUTE_AGO" = "Hace 1 minuto";
+
+/*  */
+"_MINUTES_AGO" = "Hace %1$d minutos";
+
+/*  */
+"_ONLY_MEMBERS" = "Solo miembros";
+
+/*  */
+"_ONLY_MEMBERS_WITH_PHOTOS" = "Solo miembros con fotos";
+
+/*  */
+"_LOGIN_RESET_PASSWORD" = "Cambiar contraseña";
+
+/*  */
+"_LOGIN_RESET_PW_SUCCESS" = "Su contraseña ha sido cambiada con éxito";
+
+/*  */
+"_DEFAULT_SEARCH" = "Guardar como búsqueda predeterminada";
+
+/*  */
+"_DETAILS_MISSING" = "Por favor introduzca una descripción suya";
+
+/*  */
+"_CD_PICTURE_PENDING" = "Foto esperando aprobación";
+
+/*  */
+"_LICENSES" = "Licencias";
+
+/*  */
+"_LOGOUT_CONFIRMATION" = "¿Está seguro de que quiere desconectar?";
+
+/*  */
+"_SEXUALITY_BI" = "Bisexual";
+
+/*  */
+"_SEXUALITY_GAY" = "Homosexual";
+
+/*  */
+"_SEXUALITY_STRAIGHT" = "Heterosexual";
+
+/*  */
+"_SIGN_UP_EMAIL_MISSING" = "Por favor adicione un correo electrónico válido";
+
+/*  */
+"_SIGN_UP_GENDER_MISSING" = "Por favor elija un género";
+
+/*  */
+"_SEXYORNOT" = "Sexy o no";
+
+/*  */
+"_SETTINGS_ACCOUNT_DELETED_TITLE" = "Cuenta eliminada";
+
+/*  */
+"_SETTINGS_CONTACT_AGE_RANGE" = "Edad de quien me puede contactar";
+
+/*  */
+"_SETTINGS_MY_ACCOUNT" = "Mi cuenta";
+
+/*  */
+"_SETTINGS_NOTIFICATIONS_MEDIUM" = "Medio de notificaciones";
+
+/*  */
+"_SETTINGS_MESSAGE_REPLY" = "Responder a mensaje";
+
+/*  */
+"_SETTINGS_PROFILE_SEARCHABLE" = "Ocultar perfil (motores de búsqueda)";
+
+/*  */
+"_SETTINGS_PROFILE_SEARCHABLE_SUMMARY" = "Ocultar perfil en motores de búsqueda";
+
+/*  */
+"_WHO_WANTS_TO_MEET_ME" = "Me quiere conocer";
+
+/*  */
+"_VERIFY_YOUR_ACCOUNT" = "Necesita verificar su cuenta";
+
+/*  */
+"_PROFILE_UNBLOCKED" = "%@ ha sido desbloqueado";
+
+/*  */
+"_PROFILE_UPLOAD_FIRST_PHOTO" = "¡Cargue su propia foto antes!";
+
+/*  */
+"_PROFILE_FAVORITES_REMOVED" = "%@ ha sido removido de sus favoritos";
+
+/*  */
+"_PROFILE_REMOVE_FAVORITES" = "¿Quiere remover %@ de sus favoritos?";
+
+/*  */
+"_PROFILE_FAVORITES_ADDED" = "%@ ha sido adicionado a sus favoritos.";
+
+/*  */
+"_PROFILE_BLOCKED" = "%@ ha sido bloqueado";
+
+/*  */
+"_PROFILE_ALREADY_FAVORITE" = "Ya ha adicionado %@ a sus favoritos.\n¿Quiere remover %@ de sus favoritos?";
+
+/*  */
+"_PROFILE_ALREADY_BLOCKED" = "Ya ha bloqueado %@.\n¿Quiere desbloquear %@?";
+
+/*  */
+"_PROFILE_ADD_FAVORITES_OTHER" = "¿También le gusta %@?";
+
+/*  */
+"_I_WANT_TO_MEET" = "Quiero encontrarme";
+
+/*  */
+"_MEETINGS" = "Conocerme o no?";
+
+/*  */
+"_ONLINE" = "Conectado";
+
+/*  */
+"_ERROR_PICTURE_UPLOAD" = "La subida de la foto ha fallado";
+
+/*  */
+"_ERROR_TRY_AGAIN" = "Por favor intente otra vez en unos segundos";
+
+/*  */
+"_ONLINE_FIND_MORE" = "Descubrir más";
+
+/*  */
+"_SETTINGS_PUSH_NOTIFICATIONS" = "Notificaciones push";
+
+/*  */
+"_SETTINGS_MESSAGE_FAVORITE" = "Mensaje de utilizador favorito";
+
+/*  */
+"_PROFILE_ERROR_LOADPICTURE" = "La foto no ha sido descargada.\nToque para reintentar.";
+
+/*  */
+"_PICTURE_SELECT" = "Elegir o sacar una nueva foto";
+
+/*  */
+"_PRIVACY_UPDATED" = "Opciones de privacidad actualizadas con éxito";
+
+/*  */
+"_CONVERSATION_ARCHIVE_MULTIPLE" = "¿Está seguro que quiere archivar las conversaciones seleccionadas?";
+
+/*  */
+"_EMAIL_CONFIRMATION_SUCCESS" = "Su correo electrónico ha sido verificado";
+
+/*  */
+"_LOCATION_RETRIEVAL_ERROR" = "Imposible determinar su localización";
+
+/*  */
+"_SIGN_UP_USERNAME_MISSING" = "Introduzca un nombre de usuario válido";
+
+/*  */
+"_SIGN_UP_EMAIL_AUTOCOMPLETE" = "Autocompletar correo electrónico";
+
+/*  */
+"_PICTURE_DESCRIPTION_UPDATED" = "Descripción actualizada con éxito";
+
+/*  */
+"_PHONE_CONFIRMATION_SUCCESS" = "Su número de teléfono ha sido verificado con éxito";
+
+/*  */
+"_SETTINGS_LOCATION_UPDATE" = "Actualizar localización automáticamente";
+
+/*  */
+"_SIGN_UP_PICTURE_MISSING" = "Por favor haga clic en el botón de arriba para adicionar una foto";
+
+/*  */
+"_NOTIFICATION_TECH_ISSUE" = "Cuestión Técnica";
+
+/*  */
+"_DELETE_ACCOUNT_WARNING" = "¡Esta acción no es reversible! Por razones de seguridad, debe introducir su contraseña";
+
+/*  */
+"_CONVERSATION_DELETE_SINGLE" = "¿Está seguro que desea eliminar esta conversación? Todos los mensajes serán permanentemente eliminados.";
+
+/*  */
+"_CONVERSATION_DELETE_MULTIPLE" = "¿Está seguro que desea eliminar las conversaciones seleccionadas? Todos los mensajes serán permanentemente eliminados.";
+
+/*  */
+"_CONVERSATION_ARCHIVE_SINGLE" = "¿Está seguro que quiere archivar esta conversación?";
+
+/*  */
+"_PERMISSION_READSTORAGE_RATIONALE" = "Necesitamos acceder a su almacenamiento externo para buscar su foto de perfil.";
+
+/*  */
+"_SIGN_UP_LOCATION_MISSING" = "Por favor verifique que introdujo una localización válida";
+
+/*  */
+"_LOCATION_RETRIEVAL" = "Quiere que la aplicación intente determinar su localización general automáticamente?";
+
+/*  */
+"_UNDO" = "Anular";
+
+/*  */
+"_PROFILE_FAVORITES_EMPTY" = "No tiene favoritos.\nHaga clic en el botón abajo para adicionarlos.";
+
+/*  */
+"_SETTINGS_SHARABLE" = "Deshabilitar recomendación de perfil";
+
+/*  */
+"_PROFILE_UPLOAD_PICTURE" = "Cargue una foto. En verdad, cargue muchas - a toda la gente le gusta las fotos.";
+
+/*  */
+"_TOP" = "Arriba";
+
+/*  */
+"_ERROR_DATA_DOWNLOAD" = "No ha sido posible cargar los dados.\nPulse para reintentar.";
+
+/*  */
+"_ERROR_PHOTO_ACCESING_STORAGE" = "Error a acceder al almacenamiento externo";
+
+/*  */
+"_ERROR_NO_INTERNET" = "Sin conexión a Internet. ¡Por favor vuelva a intentar!";
+
+/*  */
+"_ERROR_PICTURE_UPLOAD_MESSAGE" = "La subida de la foto no ha tenido éxito.\n¿Pretende reintentar o conectarse pronto?";
+
+/*  */
+"_HOW_VERIFY_MOBILE" = "Para verificar su número de teléfono móvil, envíe el código de verificación desde su móvil a: +447786207198";
+
+/*  */
+"_ONLINE_LAST_ACTIVE" = "Activo por último a";
+
+/*  */
+"_PERMISSION_LOCATION_RATIONALE" = "Con la localización habilitada, sabremos quien está cerca de usted.";
+
+/*  */
+"_PICTURE_ORDER_CHANGED" = "Orden actualizada con éxito";
+
+/*  */
+"_PICTURE_UPLOAD_STARTED" = "Carga de foto iniciada. Verifique sus notificaciones para ver su estado.";
+
+/*  */
+"_SETTINGS_ACCOUNT_DELETED" = "Su cuenta ha sido eliminada con éxito.\nIrá ahora a la pantalla inicial.";
+
+/*  */
+"_SETTINGS_SHARABLE_SUMMARY" = "Deshabilitar el widget de recomendación social en su perfil";
+
+/*  */
+"_SETTINGS_STILL_SENDING" = "La preferencia anterior aúnn no ha sido actualizada.";
+
+/*  */
+"_VERIFICATION_CODE_WAIT" = "Cuando haya enviado el SMS, su cuenta será activada después 1 minuto (por favor sea paciente)";
+
+/*  */
+"_TOTAL" = "Total:";
+
+/*  */
+"_DAYS" = "Días";
+
+/*  */
+"_LOCATION_RETRIEVE_ONCE" = "Sí, pero sólo una vez.";
+
+/*  */
+"_PER_MONTH" = "Al més:";
+
+/*  */
+"_PREMIUM" = "Premium";
+
+/*  */
+"_YEARS" = "Años";
+
+/*  */
+"_WEEK" = "Semana";
+
+/*  */
+"_WEEKS" = "Semanas";
+
+/*  */
+"_PREMIUM_FAVORITES" = "Más favoritos";
+
+/*  */
+"_LINK_FB" = "Vincular cuenta de Facebook";
+
+/*  */
+"_PREMIUM_LOAD_OFFERS" = "Cargar ofertas:";
+
+/*  */
+"_PREMIUM_LOAD_OFFERS_ERROR" = "No hemos conseguido cargar las ofertas premium. Por favor, intente más tarde o envie un mensaje en 'comentarios' para podermos investigar.";
+
+/*  */
+"_PREMIUM_SEE_VISITORS_SUMMARY" = "Ver quien visitó su perfil";
+
+/*  */
+"_PRIVACY_POLICY" = "Política de privacidad";
+
+/*  */
+"_UNBLOCK" = "Desbloquear";
+
+/*  */
+"_UNLINK_FB" = "Desvincular cuenta de Facebook";
+
+/*  */
+"_SEE_MORE_UPGRADE" = "¿Quiere ver más?";
+
+/*  */
+"_UNLINK_FB_CONFIRM" = "¿Está seguro de que quiere desvincular su cuenta de Facebook?";
+
+/*  */
+"_UNLINK_FB_SUCCESS" = "Su cuenta de Facebook ha sido desvinculada de su cuenta flirtbox.";
+
+/*  */
+"_REFRESH" = "Actualizar";
+
+/*  */
+"_PREMIUM_UNLIMITED" = "Ilimitado";
+
+/*  */
+"_PREMIUM_ERROR_ITEM_OWNED" = "Ya ha comprado este producto.";
+
+/*  */
+"_PREMIUM_SUPPORT_SUMMARY" = "Daremos prioridad a sus questiones";
+
+/*  */
+"_PREMIUM_DEACTIVATE" = "Desactivar perfil";
+
+/*  */
+"_PREMIUM_CONTENT" = "Este";
+
+/*  */
+"_PREMIUM_SUPPORT" = "Soporte Premium";
+
+/*  */
+"_LINK_FB_SUCCESS" = "Su cuenta de Facebook ha sido vinculada a su cuenta flirtbox.";
+
+/*  */
+"_PREMIUM_OFFER" = "Oferta especial para usted:";
+
+/*  */
+"_PREMIUM_UNLIMITED_SUMMARY" = "Mensajes y número de contactos nuevos por día";
+
+/*  */
+"_PREMIUM_PICTURES_APPROVAL" = "Aprobación más rápida";
+
+/*  */
+"_PREMIUM_PICTURES_APPROVAL_SUMMARY" = "Aprobación más rápida de sus fotos fantásticas";
+
+/*  */
+"_ERROR_EMAIL_DOMAIN" = "Éste dominio de correo no es permitido";
+
+/*  */
+"_CHANGE_SEXUALITY" = "Cambiar su sexualidad";
+
+/*  */
+"_LOCATION_RETRIEVE_AUTO" = "Sí, y permitir actualización automática de localización";
+
+/*  */
+"_PICTURE_UPLOAD_LIMIT_REACHED" = "Sólo puede cargar %1$d fotos como usuario gratuito.\nActualice su cuenta para cargar más.";
+
+/*  */
+"_PREMIUM_ERROR_AUTH" = "La verificación de autenticidad falló. Vuelva a intentar más tarde.";
+
+/*  */
+"_BASIC_SEARCH_LOCATION_RETRIEVE" = "Los datos de esta lista requieren su localización. ¿Permite que leamos su posición actual?";
+
+/*  */
+"_CONVERSATION_CONTACT_LIMIT_REACHED" = "Cuota diária excedida.\nPor favor vuelva a intentar mañana o actualice su suscripción hoy.";
+
+/*  */
+"_PREMIUM_UPGRADE" = "Actualizar";
+
+/*  */
+"_ERROR_MAINTENANCE" = "Perdone, pero estamos actualizando nuesstros servidores o haciendo una copia de seguridad. ¡Por favor intente más tarde!";
+
+/*  */
+"_FACEBOOK_ACCOUNT_ALREADY_LINKED" = "Su cuenta de Facebook ya está vinculada a otra cuenta de flirtbox. Intente usar el botón 'Conectarse con Facebook'.";
+
+/*  */
+"_IMPORT_FB_PICTURE" = "Aún no tiene fotos. ¿Quiere importar su foto de perfil de Facebook?";
+
+/*  */
+"_PREMIUM_DEACTIVATE_SUMMARY" = "Deactivar temporariamente el perfil de otra persona (p.e. si es marcado como spammer / inapropiado)";
+
+/*  */
+"_PREMIUM_ERROR_ITEM_UNAVAILABLE" = "El producto que intenta comprar ya no está disponible.";
+
+/*  */
+"_PREMIUM_ERROR_GOOGLEPLAY" = "Perdone, pero el servicio de facturación no está disponible de momento. Por favor intente más tarde.";
+
+/*  */
+"_PREMIUM_ERROR_PURCHASE" = "Perdone, pero algo falló. Por favor intente más tarde.";
+
+/*  */
+"_PREMIUM_FAVORITES_SUMMARY" = "Podrá adicionar aún más favoritos";
+
+/*  */
+"_REG_STOP_USERNAME_CHARS" = "Tiene que introducir por lo menos una letra";
+
+/*  */
+"_SAVE_DISCOUNT" = "Ahorra: %@";
+
+/*  */
+"_PROFILE_INCOMPATIBLE" = "¿Está seguro que quiere encontrarse con %@? %@ no corresponde a sus criterios de búsqueda (p.e. Hombre buscando Mujer).";
+
+/*  */
+"_REG_STOP_USERNAME_VALID_CHARS" = "Caracteres válidos: a–z y 0–9";
+
+/*  */
+"_ERROR_DOB_TOO_YOUNG" = "Debe tener al menos 18 años";
+
+/*  */
+"_SPLASHSCREEN_FB_DIALOG" = "Ya tiene una cuenta en flirtbox?";
+
+/*  */
+"_PICTURE_DELETED" = "Foto borrada";
+
+/*  */
+"_NOTIFICATION_PICTURE_DELETED_TEXT" = "Una foto que cargó ha sido borrada.";
+
+/*  */
+"_NOTIFICATION_ANNOUNCEMENT" = "Comunicado de flirtbox";
+
+/*  */
+"_PREMIUM_OFFER_LAUNCH" = "Para celebrar nuestro lanzamiento, estamos ofreciendo precios especiales para nuestros primeros miembros!";
+
+/*  */
+"_SIGN_UP_FEEDBACK_TEXT" = "No consigue crear una cuenta? Por favor, envíenos un mensaje que describe el problema que tiene.";
+
+/*  */
+"_BLOCKLIST_ALLOW" = "Permitir estos países";
+
+/*  */
+"_BLOCKLIST_DENY" = "Negar estos países";
+
+/*  */
+"_TROUBLESHOOT" = "Solucionar problemas";
+
+/*  */
+"_SIGN_UP_TROUBLESHOOT" = "No consigue crear una cuenta? Podemos enviar los datos del formulario para que el equipo de soporte técnico pueda investigar el problema?";
+
+/*  */
+"_WHO_MAY_CONTACT_FILTER_COUNTRY" = "Filtrar mensajes por país";
+
+/*  */
+"_WHO_MAY_CONTACT_DENY_FILTER_COUNTRY" = "Bloquear mensajes por país";
+
+/*  */
+"_WHO_MAY_CONTACT_ALLOW_FILTER_COUNTRY" = "Permitir mensajes por país";
+

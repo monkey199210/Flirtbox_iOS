@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="Roboto-Regular.ttf">
+            <string>Roboto-Regular</string>
+        </mutableArray>
+    </customFonts>
+    <scenes>
+        <!--About View Controller-->
+        <scene sceneID="HEn-aj-MoK">
+            <objects>
+                <viewController storyboardIdentifier="AboutViewController" id="PNm-4Y-jLA" customClass="AboutViewController" customModule="Flirtbox" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="3Ed-Rr-bV5"/>
+                        <viewControllerLayoutGuide type="bottom" id="dCX-3x-5gk"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="S8p-bO-Cme">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="topOverlay" translatesAutoresizingMaskIntoConstraints="NO" id="cMh-Te-JiL">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="80"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gJN-j3-M1a" userLabel="top">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="About" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7dB-kd-Pj2">
+                                        <rect key="frame" x="70" y="28" width="48" height="24"/>
+                                        <fontDescription key="fontDescription" name="Avenir-Light" family="Avenir" pointSize="17"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="7dB-kd-Pj2" firstAttribute="centerY" secondItem="gJN-j3-M1a" secondAttribute="centerY" constant="10" id="DtD-iL-dDk"/>
+                                    <constraint firstItem="7dB-kd-Pj2" firstAttribute="leading" secondItem="gJN-j3-M1a" secondAttribute="leading" constant="70" id="NLF-S7-QtE"/>
+                                    <constraint firstAttribute="height" constant="60" id="vk7-VX-r0P"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="About text" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mkw-NB-3sL">
+                                <rect key="frame" x="20" y="68" width="280" height="19"/>
+                                <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="14"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.058823529409999999" green="0.1333333333" blue="0.18039215689999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="Mkw-NB-3sL" secondAttribute="trailing" constant="20" id="3cS-3d-r5w"/>
+                            <constraint firstItem="Mkw-NB-3sL" firstAttribute="leading" secondItem="S8p-bO-Cme" secondAttribute="leading" constant="20" id="HS9-AY-FHn"/>
+                            <constraint firstItem="cMh-Te-JiL" firstAttribute="top" secondItem="S8p-bO-Cme" secondAttribute="top" id="HiI-mR-Www"/>
+                            <constraint firstAttribute="trailing" secondItem="gJN-j3-M1a" secondAttribute="trailing" id="Hmx-cr-Nyq"/>
+                            <constraint firstAttribute="trailing" secondItem="cMh-Te-JiL" secondAttribute="trailing" id="Lw2-5n-wUl"/>
+                            <constraint firstItem="Mkw-NB-3sL" firstAttribute="top" secondItem="gJN-j3-M1a" secondAttribute="bottom" constant="8" id="Ubc-1f-6aB"/>
+                            <constraint firstItem="gJN-j3-M1a" firstAttribute="top" secondItem="S8p-bO-Cme" secondAttribute="top" id="eur-XD-G63"/>
+                            <constraint firstItem="gJN-j3-M1a" firstAttribute="leading" secondItem="S8p-bO-Cme" secondAttribute="leading" id="lhZ-i6-T7z"/>
+                            <constraint firstItem="cMh-Te-JiL" firstAttribute="leading" secondItem="S8p-bO-Cme" secondAttribute="leading" id="lqC-UH-vWv"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="controllerTopLabel" destination="7dB-kd-Pj2" id="g1b-uj-HLK"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="8eL-iy-BMZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="114" y="290"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="topOverlay" width="360" height="80"/>
+    </resources>
+</document>
